@@ -20,7 +20,7 @@ password and username config in config.int
 
 
 一个管理K8S集群的系统
-
+![ui](https://github.com/zzxap/k8sclient/blob/master/png/10.PNG)
 
 ![ui](https://github.com/zzxap/k8sclient/blob/master/png/1.PNG)
 
