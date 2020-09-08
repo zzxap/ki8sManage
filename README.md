@@ -1,6 +1,9 @@
 # k8sclient
 k8sclient manage k8s deployment service ingress pod node rum yaml
 
+unzip release.zip cd release unzip KubersClient.zip
+chmod 771 KubersClient 
+run ./KubersClient 
 
 run this in k8s master host
 
@@ -10,6 +13,8 @@ password and username config in config.int
 
 先安装k8s 系统
 
+解压 release.zip 进入 release目录 解压 KubersClient.zip
+chmod 771 KubersClient 
 然后再k8s的主服务器上运行 ./KubersClient   
 
 然后打开http://主服务器ip:8081/web/#/namespace
