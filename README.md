@@ -5,7 +5,7 @@ unzip release.zip cd release unzip KubersClient.zip
 chmod 771 KubersClient 
 run ./KubersClient 
 
-run this in k8s master host
+run this in k8s master host  
 
 and then open  http://ip:8081/web/#/namespace
 
@@ -15,7 +15,10 @@ password and username config in config.int
 
 解压 release.zip 进入 release目录 解压 KubersClient.zip
 chmod 771 KubersClient 
-然后再k8s的主服务器上运行 ./KubersClient   
+
+然后在k8s的主服务器上运行 ./KubersClient   
+
+注意不能在node节点运行
 
 然后打开http://主服务器ip:8081/web/#/namespace
 
