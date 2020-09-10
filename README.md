@@ -38,6 +38,10 @@ chmod 771 KubersClient
 
 
 一个管理K8S集群的系统
+![ui](https://github.com/zzxap/k8sclient/blob/master/png/11.PNG)
+
+![ui](https://github.com/zzxap/k8sclient/blob/master/png/12.PNG)
+
 ![ui](https://github.com/zzxap/k8sclient/blob/master/png/10.PNG)
 
 ![ui](https://github.com/zzxap/k8sclient/blob/master/png/1.PNG)
