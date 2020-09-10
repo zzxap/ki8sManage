@@ -1,9 +1,12 @@
 # k8sclient
 k8sclient manage k8s deployment service ingress pod node rum yaml
+
 can add update delete view deployment service ingress  on web 
 
 unzip release.zip cd release unzip KubersClient.zip
+
 chmod 771 KubersClient 
+
 run ./KubersClient 
 
 run this in k8s master host  
@@ -14,10 +17,13 @@ password and username config in config.int
 
 
 可以实现deployment service ingress 的新增删除 修改 更新 列表
+
 实现node pod 的显示和详情描述
+
 先安装k8s 系统
 
 解压 release.zip 进入 release目录 解压 KubersClient.zip
+
 chmod 771 KubersClient 
 
 然后在k8s的主服务器上运行 ./KubersClient   
