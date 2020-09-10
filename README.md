@@ -38,28 +38,18 @@ chmod 771 KubersClient
 
 
 一个管理K8S集群的系统
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/11.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/11.PNG)
 
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/12.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/12.PNG)
 
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/10.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/10.PNG)
 
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/1.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/9.PNG)
 
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/2.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/9.PNG)
 
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/3.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/7.PNG)
 
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/4.PNG)
-
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/5.PNG)
-
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/6.PNG)
-
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/7.PNG)
-
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/8.PNG)
-
-![ui](https://github.com/zzxap/k8sclient/blob/master/png/9.PNG)
+![image](https://github.com/zzxap/TraefikUI/blob/master/images/wechat.jpg)
 
 ![ui](https://github.com/zzxap/TraefikUI/blob/master/images/wechat.jpg)
