@@ -52,4 +52,3 @@ chmod 771 KubersClient
 
 ![image](https://github.com/zzxap/TraefikUI/blob/master/images/wechat.jpg)
 
-![ui](https://github.com/zzxap/TraefikUI/blob/master/images/wechat.jpg)
