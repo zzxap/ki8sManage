@@ -20,6 +20,8 @@ password and username config in config.int
 
 实现node pod 的显示和详情描述
 
+实现Docker 的列表显示 停止 删除 操作
+
 先安装k8s 系统
 
 解压 release.zip 进入 release目录 解压 KubersClient.zip
