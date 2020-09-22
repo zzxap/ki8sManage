@@ -40,17 +40,17 @@ chmod 771 KubersClient
 
 
 一个管理K8S集群的系统
-![image](https://github.com/zzxap/k8sclient/blob/master/png/11.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/11.PNG?raw=true)
 
-![image](https://github.com/zzxap/k8sclient/blob/master/png/12.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/12.PNG?raw=true)
 
-![image](https://github.com/zzxap/k8sclient/blob/master/png/10.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/10.PNG?raw=true)
 
-![image](https://github.com/zzxap/k8sclient/blob/master/png/9.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/9.PNG?raw=true)
 
-![image](https://github.com/zzxap/k8sclient/blob/master/png/9.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/9.PNG?raw=true)
 
-![image](https://github.com/zzxap/k8sclient/blob/master/png/7.PNG)
+![image](https://github.com/zzxap/k8sclient/blob/master/png/7.PNG?raw=true)
 
-![image](https://github.com/zzxap/TraefikUI/blob/master/images/wechat.jpg)
+![image](https://github.com/zzxap/TraefikUI/blob/master/images/wechat.jpg?raw=true)
 
