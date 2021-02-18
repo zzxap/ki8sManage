@@ -42,6 +42,9 @@ chmod 771 KubersClient
 一个管理K8S集群的系统
 
 
+![image](http://www.iosbuy.com/app/images/k8s/11.PNG)
+![image](http://www.iosbuy.com/app/images/k8s/3.PNG)
+
 ![image](https://github.com/zzxap/k8sclient/blob/master/png/13.PNG?raw=true)
 
 ![image](https://github.com/zzxap/k8sclient/blob/master/png/12.PNG?raw=true)
