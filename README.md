@@ -1,5 +1,5 @@
-# k8sclient
-k8sclient manage k8s deployment service ingress pod node rum yaml
+# ki8sManage
+ki8sManage manage k8s deployment service ingress pod node rum yaml
 
 can add update delete view deployment service ingress  on web 
 
